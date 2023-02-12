@@ -9,4 +9,8 @@ Entrance level exam for Graduate level program in Engineering. The following pro
 
 ![image](GateCS_3.JPG)
 
+![image](EthicsandExcellence.png)
+
+![image](USCopyrightCertificate.png)
+
 Additional details reference: https://github.com/alpaddesai/SoftwareEngineering
