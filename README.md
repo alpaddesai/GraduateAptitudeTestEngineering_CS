@@ -1,4 +1,5 @@
-# Graduate Aptitude Test Engineering - Computer Science Dept
+# Graduate Aptitude Test Engineering 
+## Computer Science Dept
 
 Entrance level exam for Graduate level program in Engineering. The following project provides an overview for the CS dept. 
 
