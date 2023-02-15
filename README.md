@@ -13,4 +13,4 @@ Entrance level exam for Graduate level program in Engineering. The following pro
 
 ![image](USCopyrightCertificate.png)
 
-Additional details reference: https://github.com/alpaddesai/SoftwareEngineering
+Additional details reference: https://github.com/alpaddesai/ExecutiveMBA
