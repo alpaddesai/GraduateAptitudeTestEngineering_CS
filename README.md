@@ -15,4 +15,6 @@ Entrance level exam for Graduate level program in Engineering. The following pro
 
 ![image](USCopyrightCertificate.png)
 
+Reference https://gate.iitk.ac.in/gate_syllabus.html
+
 Additional details reference: https://github.com/alpaddesai/SoftwareEngineering
