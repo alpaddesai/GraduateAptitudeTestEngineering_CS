@@ -9,6 +9,8 @@ Entrance level exam for Graduate level program in Engineering. The following pro
 
 ![image](GateCS_3.JPG)
 
+![image](GateCS.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
